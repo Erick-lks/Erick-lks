@@ -7,10 +7,7 @@ Sou desenvolvedor apaixonado por criar soluções práticas e eficientes. Trabal
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=Erick-lks&show_icons=true&theme=light">
-
  < img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-lks&langs_count=8" >
-</a>
-   
 </div>
 
 🔧 Tecnologias e Ferramentas
