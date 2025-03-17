@@ -6,8 +6,9 @@
 Sou desenvolvedor apaixonado por criar soluções práticas e eficientes. Trabalho com React, Electron, Node.js, Spring Boot  para construir desde aplicações eficientes e funcionais para solucionar o problemas.
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=Erick-lks&show_icons=true&theme=light">
- < img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-lks&langs_count=8" >
+<a href="https://github-readme-stats.vercel.app/api?username=Erick-lks&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-lks&layout=compact" alt="GitHub Stats">
+</a>
 </div>
 
 🔧 Tecnologias e Ferramentas
