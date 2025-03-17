@@ -7,8 +7,8 @@ Sou desenvolvedor apaixonado por criar soluções práticas e eficientes. Trabal
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=Erick-lks&show_icons=true&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-lks&layout=compact" alt="GitHub Stats">
-  < img src="https://github-readme-stats.vercel.app/api?username=Erick-lks&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-lks&layout=compact" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Erick-lks&show_icons=true&theme=radical" />
 </a>
 </div>
 
