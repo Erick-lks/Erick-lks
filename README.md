@@ -33,23 +33,19 @@ Sou desenvolvedor apaixonado por criar soluções práticas e eficientes. Trabal
 
 React (com Vite)
 
+TailwindCss
+
 Electron (para apps desktop)
 
 💻 Backend
 
-Node.js (Express, Web Scraping)
+Node.js 
 
-Spring Boot (com H2 Database)
+Spring Boot 
 
-Gerador de PDFs e relatórios (Excel incluído)
 
-📫 Contato:
 
-LinkedIn: https://www.linkedin.com/in/erickcaetano/
 
-Email: erick.caetano1200@gmail.com
-
-Portfólio: 
 
 
 
