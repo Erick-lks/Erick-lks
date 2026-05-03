@@ -3,7 +3,9 @@
 
 🚀 Sobre mim
 
-Sou desenvolvedor apaixonado por criar soluções práticas e eficientes. Trabalho com React, Electron, Node.js, Spring Boot  para construir desde aplicações eficientes e funcionais para solucionar o problemas.
+Desenvolvedor Full Stack Júnior com foco em Java (Spring Boot), React e PostgreSQL. Experiência prática no
+desenvolvimento de aplicações web completas, incluindo APIs REST com autenticação JWT, integração
+frontend/backend e boas práticas de arquitetura em camadas.
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=Erick-lks&show_icons=true&theme=radical">
@@ -12,10 +14,10 @@ Sou desenvolvedor apaixonado por criar soluções práticas e eficientes. Trabal
 </a>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Erick-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Erick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Erick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <br>
+  <img align="center" alt="Erick-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"><br>
+  <img align="center" alt="Erick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><br>
+  <img align="center" alt="Erick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br>
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br><br>
 
 </div>
