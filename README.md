@@ -9,7 +9,7 @@ frontend/backend e boas práticas de arquitetura em camadas.
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=Erick-lks&show_icons=true&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-lks&layout=compact" alt="GitHub Stats" />
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-lks&show_icons=true&theme=light" />
 </a>
 </div>
