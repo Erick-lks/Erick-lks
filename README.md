@@ -8,10 +8,7 @@ desenvolvimento de aplicações web completas, incluindo APIs REST com autentica
 frontend/backend e boas práticas de arquitetura em camadas.
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=Erick-lks&show_icons=true&theme=radical">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-lks&show_icons=true&theme=light" />
-</a>
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <br>
