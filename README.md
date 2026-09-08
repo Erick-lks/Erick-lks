@@ -36,7 +36,6 @@ Atualmente, busco oportunidades como **Desenvolvedor Java Júnior, Backend Java 
 
 * 🐙 Git & GitHub
 * 🐳 Docker
-* 🐧 Linux
 * 🗃️ PostgreSQL
 * 📡 Insomnia / Postman
 * 📊 Excel
