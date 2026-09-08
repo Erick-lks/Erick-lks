@@ -1,51 +1,128 @@
+# 💻 Olá, eu sou Erick Caetano!
 
-💻 Olá, eu sou Erick Caetano !
+### 🚀 Desenvolvedor Full Stack Júnior | Java • Spring Boot • React
 
-🚀 Sobre mim
+Sou Desenvolvedor Full Stack Júnior com foco em **Java, Spring Boot, React e PostgreSQL**, com experiência prática no desenvolvimento de aplicações web e APIs REST.
 
-Desenvolvedor Full Stack Júnior com foco em Java (Spring Boot), React e PostgreSQL. Experiência prática no
-desenvolvimento de aplicações web completas, incluindo APIs REST com autenticação JWT, integração
-frontend/backend e boas práticas de arquitetura em camadas.
+Tenho experiência com **integração entre frontend e backend, autenticação utilizando JWT, arquitetura em camadas, bancos de dados relacionais e desenvolvimento de aplicações utilizando boas práticas de programação**.
+
+Atualmente, busco oportunidades como **Desenvolvedor Java Júnior, Backend Java ou Full Stack Júnior**, onde possa contribuir com meus conhecimentos e continuar evoluindo profissionalmente.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Backend
+
+* ☕ Java
+* 🌱 Spring Boot
+* 🔐 Spring Security
+* 🔑 JWT / Autenticação
+* 🌐 APIs REST
+* 🗄️ PostgreSQL
+* 🧪 JUnit
+* 🛠️ Maven
+
+### 🌐 Frontend
+
+* ⚛️ React
+* ⚡ Vite
+* 🎨 Tailwind CSS
+* 🟨 JavaScript
+* 📄 HTML5
+* 🎨 CSS3
+
+### 🔧 Ferramentas e Outros
+
+* 🐙 Git & GitHub
+* 🐳 Docker
+* 🐧 Linux
+* 🗃️ PostgreSQL
+* 📡 Insomnia / Postman
+* 📊 Excel
+* 🖥️ Electron
+* 🟢 Node.js
+
+---
+
+## 📌 Projetos em Destaque
+
+### 📦 Sistema de Estoque
+
+Aplicação Full Stack desenvolvida para gerenciamento de produtos e movimentações de estoque.
+
+**Tecnologias:**
+
+* Java
+* Spring Boot
+* React
+* Vite
+* PostgreSQL
+* Tailwind CSS
+* Docker
+
+**Principais funcionalidades:**
+
+* Cadastro e gerenciamento de produtos
+* Controle de estoque
+* Registro de movimentações
+* Integração entre API REST e frontend
+* Exportação de relatórios
+* Persistência de dados em PostgreSQL
+
+---
+
+### 🔐 Login Auth API
+
+API REST desenvolvida com Spring Boot para gerenciamento de autenticação e usuários.
+
+**Tecnologias:**
+
+* Java
+* Spring Boot
+* Spring Security
+* JWT
+* PostgreSQL
+* Maven
+
+**Funcionalidades:**
+
+* Cadastro de usuários
+* Login
+* Autenticação utilizando JWT
+* Proteção de endpoints
+* Controle de acesso
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickcaetano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickcaetano&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📫 Entre em contato
 
 <div>
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <br>
-  <img align="center" alt="Erick-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"><br>
-  <img align="center" alt="Erick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><br>
-  <img align="center" alt="Erick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br>
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br><br>
+<a href="mailto:erick.caetano1200@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/erickcaetano/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </div>
 
+---
 
-<div> 
-  <a href = "mailto:erick.caetano1200@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/erickcaetano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+### 🎯 Objetivo profissional
 
-🔧 Tecnologias e Ferramentas
-
-🌐 Frontend
-
-React (com Vite)
-
-TailwindCss
-
-Electron (para apps desktop)
-
-💻 Backend
-
-Node.js 
-
-Spring Boot 
-
-
-
-
-
-
-
-  
+Busco uma oportunidade na área de **Desenvolvimento de Software**, especialmente como **Java Backend ou Full Stack Júnior**, contribuindo para projetos reais, trabalhando em equipe e evoluindo continuamente minhas competências técnicas.
