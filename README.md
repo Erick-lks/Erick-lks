@@ -98,9 +98,9 @@ API REST desenvolvida com Spring Boot para gerenciamento de autenticação e usu
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickcaetano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-lks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickcaetano&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-lks&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
